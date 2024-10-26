@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426028777564",
+    "project_id": "hackwithinfy-3e8b7",
+    "storage_bucket": "hackwithinfy-3e8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426028777564:android:0f9b1bfed78efc249f2699",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9CnJ07pHzZr_gLJ8f27DI0xWLGkNrfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426028777564:android:934ed29d206699729f2699",
+        "android_client_info": {
+          "package_name": "com.example.hackwithinfy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9CnJ07pHzZr_gLJ8f27DI0xWLGkNrfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
