@@ -6,6 +6,7 @@ Early Pulse is an AI-powered health monitoring application that leverages machin
 
 If you don't want to build the APK and set up the Flutter environment, you can check the working videos here:
 - [Google Drive Link](https://drive.google.com/drive/folders/12s-ibV4lWxPQ2_X4A_c6iIbFWlGdiFba)
+- [FastAPI backend link](https://github.com/avanishraj/Early_Pulse_backend)
 
 ## 📱 Features
 
