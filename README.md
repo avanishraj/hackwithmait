@@ -1,4 +1,3 @@
-# hackwithinfy
 
 A new Flutter project.
 
