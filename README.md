@@ -86,7 +86,7 @@ If you don't want to build the APK and set up the Flutter environment, you can c
 ## 📊 System Architecture
 (Add system architecture diagram here)
 
-## 🤖 AI & Machine Learning
+## 🤖 AI
 
 - **Generative AI**: Utilizes Llama2 with Langchain for health report analysis and personalized recommendations.
 - **Cloud Integration**: Deployed using AWS for scalability and performance.
@@ -109,10 +109,6 @@ Contributions are welcome! Please follow the standard contribution guidelines:
    git push origin feature/YourFeature
    ```
 5. Open a pull request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📧 Contact
 
